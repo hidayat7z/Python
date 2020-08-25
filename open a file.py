@@ -1,3 +1,3 @@
 #opening a file
 
-fileObject = open("Home:\\file.txt","w")
+fileObject = open("file.txt","w")
