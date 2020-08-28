@@ -2,6 +2,7 @@
 
 from PyPDF2 import PdfFileReader, PdfFileWriter
 
+write_obj=PdfFileWriter()
 pdf_list = ["/home/hidayat7z/PDFS/pdfone.pdf", "/home/hidayat7z/PDFS/pdftwo.pdf"]
 
 for i in pdf_list:
